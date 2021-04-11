@@ -1,0 +1,12 @@
+{
+  "name": "onestop",
+  "displayName": "onestop",
+  "expo": {
+    "name": "onestop",
+    "slug": "onestop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
